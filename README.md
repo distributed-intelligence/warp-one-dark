@@ -1,2 +1,2 @@
 # warp-one-dark
-Zed theme to match warp terminal with one dark pro editor styling
+Zed theme to match [Warp](https://www.warp.dev/) terminal UI with one dark pro styling
